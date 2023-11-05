@@ -16,4 +16,4 @@
 3. as통한 태그변경
 4. attrs통한 속성값 설정
 
-## Typescript??
+## Typescript?
