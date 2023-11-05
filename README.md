@@ -9,9 +9,11 @@
 **6. TRELLO CLONE**
 **7. ANIMATIONS**
 
-Styled Components?
+## Styled Components?
 
 1. props 통한 컴포넌트 설정
 2. 컴포넌트 확장
 3. as통한 태그변경
 4. attrs통한 속성값 설정
+
+## Typescript?
